@@ -52,3 +52,26 @@ http://tv.elaach.com/hls/zeebanglahd.m3u8
 http://tv.elaach.com/hls/starjalsha.m3u8
 
 
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png” group-title=”Bangla”, Discovery
+http://tv.elaach.com/hls/discovery-11948.ts
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png” group-title=”Bangla”, Wild Life
+http://tv.elaach.com/hls/wild.m3u8
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png” group-title=”Bangla”, সনি স্পোর্টস
+http://tv.elaach.com/hls/sonysix-20633.ts
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png” group-title=”Bangla”, স্টার স্পোর্টস
+http://tv.elaach.com/hls/starsports3-12251.ts
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png” group-title=”Bangla”, সনি স্পোর্টস-১
+http://tv.elaach.com/hls/stersports1hd-18624.ts
+
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png” group-title=”Bangla”, ইসলামিক
+http://tv.elaach.com/hls/madani-14715.ts
+
+
