@@ -51,7 +51,8 @@ http://tv.elaach.com/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png” group-title=”India”, স্টার জলসা
 http://tv.elaach.com/hls/starjalsha.m3u8
 
-
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg” group-title=”Bangla”, Discovery
+http://tv.elaach.com/hls/discovery-11948.ts
 
 
 
