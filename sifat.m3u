@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”[url=https://imgbb.com/][img]https://i.ibb.co/z5mMFJT/images.jpg[/img][/url]” group-title=”Bangla”, STAR JALSHA
+#EXTINF:-1 tvg-logo=”[url=https://imgbb.com/][img]https://i.ibb.co/z5mMFJT/images.jpg[/img][/url]” group-title=”Bangla”, ZEE BANGLA
 http://tv.elaach.com/hls/5048.m3u8
 
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png” group-title=”Bangla”, গাজী টিভি
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png” group-title=”Bangla”, STAR JALSHA
 http://tv.elaach.com/hls/5053.m3u8
 
 
